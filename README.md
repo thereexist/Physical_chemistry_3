@@ -4,8 +4,8 @@
 
 자료를 활용하기 위해서는 다음과 같은 프로그램들이 필요합니다.
 
-    - Microsoft powerPoint
-    - Anaconda (https://www.anaconda.com/)
-    - Julia (https://julialang.org/)
-    - Mathematica (https://www.wolfram.com/mathematica/)
+- Microsoft powerPoint
+- Anaconda (https://www.anaconda.com/)
+- Julia (https://julialang.org/)
+- Mathematica (https://www.wolfram.com/mathematica/)
 
