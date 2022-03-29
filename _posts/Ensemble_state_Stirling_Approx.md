@@ -36,7 +36,7 @@ Ensemble도 위와 같이 생각할 수 있습니다.
 
 통계역학에서 자주 보실 이 근사는 다음과 같이 쓰입니다.
 
-$$\ln(N!) \cong N\ln(N) - N \text{  (for large $N$)}$$
+$\ln(N!) \cong N\ln(N) - N \text{  (for large $N$)}$
 
 이렇게 근사가 되는 것은 [**wikipedia**](https://en.wikipedia.org/wiki/Stirling%27s_approximation)에 derivation이 자세하게 나와있습니다.
 
