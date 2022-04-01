@@ -15,23 +15,23 @@
 
 1회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Particle_in_a_box)
 
-1. 양자역학의 탄생 역사(왜 슈뢰딩거 방정식을 공부해야되는가?).(https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/presentation.pptx)
+1. [**양자역학의 탄생 역사(왜 슈뢰딩거 방정식을 공부해야되는가?).**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/presentation.pptx)
 
-2. Particle in a box를 이용한 불확정성 원리 시각화.(https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb, https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box_julia.ipynb)
+2. [**Particle in a box를 이용한 불확정성 원리 시각화.**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)   ([**Julia code로도 구현해봄..**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box_julia.ipynb))
 
-3. Hilbert space란 무엇인가? Linear combination이란 무엇인가?(https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)
+3. [**Hilbert space란 무엇인가? Linear combination이란 무엇인가?**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)
 
-4. Dummy index는 무엇인가?(https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)
+4. [**Dummy index는 무엇인가?**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)
 
 2회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state)
 
-1. Ensemble 개념 소개(https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
+1. [**Ensemble 개념 소개**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
-2. Canonical ensemble에 대한 개념 소개: from micro-canonical to canonical(https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Canonical_ensemble.ipynb)
+2. [**Canonical ensemble에 대한 개념 소개: from micro-canonical to canonical**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Canonical_ensemble.ipynb)
 
-3. Stirling approximation 소개(https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
+3. [**Stirling approximation 소개**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
-4. Gradient vector, Partial derivative(https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
+4. [**Gradient vector, Partial derivative**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
-5. Lagrange undetermined multiplier method(https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
+5. [**Lagrange undetermined multiplier method**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
