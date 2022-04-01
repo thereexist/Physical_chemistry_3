@@ -11,6 +11,8 @@
 - Julia (https://julialang.org/)
 - Mathematica (https://www.wolfram.com/mathematica/)
 
+-------------------------------------------------------------------------------------
+
 1회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Particle_in_a_box)
 
 1. 양자역학의 탄생 역사(왜 슈뢰딩거 방정식을 공부해야되는가?). 
