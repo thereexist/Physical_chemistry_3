@@ -35,3 +35,5 @@
 
 5. [**Lagrange undetermined multiplier method**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
+6. [**Monte Carlo simulation을 이용해 Boltzmann distribution을 시각화 해보기**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state/Monte%20Carlo%20simulations%20to%20sample%20the%20canonical%20distribution)
+

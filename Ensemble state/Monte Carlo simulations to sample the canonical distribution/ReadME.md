@@ -10,4 +10,4 @@
 
 - "Num iteration"으로 simulation을 수행하는 횟수를 조절할 수 있습니다. 시뮬레이션의 횟수가 많으면 많을수록, 결과는 Boltzmann distribution에 가까워집니다.
 
-- <U>"Temperature"를 높임에 따라 확률 분포가 어떻게 나타나는지를 확인해보세요.</U>
+- <U> "Temperature"를 높임에 따라 확률 분포가 어떻게 나타나는지를 확인해보세요. </U>
