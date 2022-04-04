@@ -1,6 +1,6 @@
 # 2022 물리화학 3
 
-![HitCount](http://hits.dwyl.com/thereexist/Physical_chemistry_3.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthereexist%2FPhysical_chemistry_3&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 2022년 1학기 중앙대학교 화학과 김지현 교수님 물리화학 3 수업에 대한 보충수업 자료들입니다.
 
