@@ -37,3 +37,6 @@
 
 6. [**Monte Carlo simulation을 이용해 Boltzmann distribution을 시각화 해보기**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state/Monte%20Carlo%20simulations%20to%20sample%20the%20canonical%20distribution)
 
+3회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Partition_function)
+
+1. [**Ideal gas law**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/ideal_gas_law.ipynb)
