@@ -40,3 +40,7 @@
 3회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Partition_function)
 
 1. [**Ideal gas law**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/ideal_gas_law.ipynb)
+
+2. Schottky anomaly
+
+3. Heat capacity of water
