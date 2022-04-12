@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+title                    : "Physical Chemistry (3)"
+name                     : "물리화학 (3) 보충 강의"
+description              : "2022년 1학기 중앙대학교 화학과 김지현 교수님 물리화학 3 수업에 대한 보충수업 자료들입니다."
+url                      : "https://thereexist.github.io/Physical_chemistry_3/"
