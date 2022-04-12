@@ -44,3 +44,9 @@
 2. Schottky anomaly
 
 3. Heat capacity of water
+
+4. Most probable state of micro canonical ensemble
+
+5. Density of states
+
+6. Standard molar entropy of N2O & NO2
