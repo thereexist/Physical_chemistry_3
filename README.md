@@ -13,7 +13,7 @@
 
 -------------------------------------------------------------------------------------
 
-1회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Particle_in_a_box)
+[**1회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Particle_in_a_box)
 
 1. [**양자역학의 탄생 역사(왜 슈뢰딩거 방정식을 공부해야되는가?).**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/presentation.pptx)
 
@@ -23,7 +23,7 @@
 
 4. [**Dummy index는 무엇인가?**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Particle_in_a_box/particle_in_a_box.ipynb)
 
-2회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state)
+[**2회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state)
 
 1. [**Ensemble 개념 소개**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Ensemble%20state/Ensemble_state_Stirling_Approx.ipynb)
 
@@ -37,7 +37,7 @@
 
 6. [**Monte Carlo simulation을 이용해 Boltzmann distribution을 시각화 해보기**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Ensemble%20state/Monte%20Carlo%20simulations%20to%20sample%20the%20canonical%20distribution)
 
-3회차(https://github.com/thereexist/Physical_chemistry_3/tree/main/Partition_function)
+[**3회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Partition_function)
 
 1. [**Ideal gas law**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/ideal_gas_law.ipynb)
 
