@@ -41,12 +41,12 @@
 
 1. [**Ideal gas law**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/ideal_gas_law.ipynb)
 
-2. Schottky anomaly
+2. [**Schottky anomaly**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/schottky_anomaly.ipynb)
 
-3. Heat capacity of water
+3. [**Heat capacity of water**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/heat_capacity.ipynb)
 
-4. Most probable state of micro canonical ensemble
+4. [**Most probable state of micro canonical ensemble**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/most_probable_state_of_micro_canonical_ensemble.ipynb)
 
-5. Density of states
+5. [**Density of states**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/density_of_state.ipynb)
 
-6. Standard molar entropy of N2O & NO2
+6. [**Standard molar entropy of N2O & NO2**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/system_entropy.ipynb)
