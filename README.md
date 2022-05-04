@@ -50,3 +50,8 @@
 5. [**Density of states**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/density_of_state.ipynb)
 
 6. [**Standard molar entropy of N2O & NO2**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Partition_function/system_entropy.ipynb)
+
+
+[**4회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Chemical_equilibrium)
+
+1. [**Equilibrium constant of Ammonia**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Ammonia_synthesis.ipynb)
