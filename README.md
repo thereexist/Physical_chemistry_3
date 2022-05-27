@@ -56,6 +56,9 @@
 
 1. [**Equilibrium constant of Ammonia**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Ammonia_synthesis.ipynb)
 
+2. [**Python tutorial... (늦게나마)**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Ammonia_synthesis.ipynb)
+
+
 [**5회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Speed_of_sound)
 
 1. [**Adiabatic process란 무엇인가**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Speed_of_sound/Adiabatic_process.ipynb)
