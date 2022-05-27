@@ -58,6 +58,12 @@
 
 [**5회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Speed_of_sound)
 
-1. [**Speed of Sound 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Speed_of_sound/Adiabatic_process.ipynb)
+1. [**Adiabatic process란 무엇인가**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Speed_of_sound/Adiabatic_process.ipynb)
 
-2. [**Arrhenius equation 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
+2. [**Speed of Sound 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Speed_of_sound/Adiabatic_process.ipynb)
+
+3. [**Jacobian determinant**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Speed_of_sound/Adiabatic_process.ipynb)
+
+4. [**Van't Hoff equation 시각화**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
+
+5. [**Arrhenius equation 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
