@@ -70,3 +70,14 @@
 4. [**Van't Hoff equation 시각화**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
 
 5. [**Arrhenius equation 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
+
+[**6회차**]
+
+1. [**Most probable kinetic energy**]
+
+2. [**Molecular effusion : theory and historical applcation (atomic bomb)**]
+
+3. [**Half life of chemical reaction**]
+
+4. [**HF chemical laser**]
+
