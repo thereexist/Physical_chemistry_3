@@ -71,13 +71,13 @@
 
 5. [**Arrhenius equation 부연 설명**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Chemical_equilibrium/Arrhenius_equation.ipynb)
 
-[**6회차**]
+[**6회차**](https://github.com/thereexist/Physical_chemistry_3/tree/main/Final_report)
 
-1. [**Most probable kinetic energy**]
+1. [**Most probable kinetic energy**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Final_report/most_probable_kinetic_energy.ipynb)
 
-2. [**Molecular effusion : theory and historical applcation (atomic bomb)**]
+2. [**Molecular effusion : theory and historical applcation (atomic bomb)**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Final_report/molecular_effusion.ipynb)
 
-3. [**Half life of chemical reaction**]
+3. [**Half life of chemical reaction**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Final_report/chemical_reaction_half_life.ipynb)
 
-4. [**HF chemical laser**]
+4. [**HF chemical laser**](https://github.com/thereexist/Physical_chemistry_3/blob/main/Final_report/HF_laser.ipynb)
 
