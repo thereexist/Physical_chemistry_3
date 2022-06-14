@@ -4,13 +4,14 @@
 
 2022년 1학기 중앙대학교 화학과 김지현 교수님 물리화학 3 수업에 대한 보충수업 자료들입니다.
 
-자료를 활용하기 위해서는 다음과 같은 프로그램들이 필요합니다. → 학기가 다 끝나고 보니, 대부분은 Anaconda 설치시 같이 설치되는 Python 3을 주로 사용했습니다.
+자료를 활용하기 위해서는 다음과 같은 프로그램들이 필요합니다. 
 
 - Microsoft powerPoint
 - [**Anaconda**](https://www.anaconda.com/)
 - [**Julia**](https://julialang.org/)
 - [**Mathematica**](https://www.wolfram.com/mathematica/)
 
+(→ 학기가 다 끝나고 보니, 대부분은 Anaconda 설치시 같이 설치되는 Python 3을 주로 사용했습니다.)
 
 이론적 결과들은 대부분 [**Physical Chemistry - Donald McQuarrie**](https://g.co/kgs/sJNM2Y) 책에 그 유도과정이 나와있습니다. 
 
